@@ -1,0 +1,5 @@
+Server IP: 192.168.1.200
+before running jupyter notebook run the ssh-tunnel script
+USERNAME: will
+
+./ssh-tunnel.sh
